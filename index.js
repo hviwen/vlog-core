@@ -41,7 +41,7 @@ const log = wx.getRealtimeLogManager ? wx.getRealtimeLogManager() : null
  * @type {{reportWeData: string}}
  */
 const VLOG_ENTRIES = {
-  reportWeData: 'REPORT_WEDATA'
+  reportWeData: 'reportWeData'
 }
 
 /**
